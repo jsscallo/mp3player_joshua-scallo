@@ -1,0 +1,14 @@
+product list:
+
+ESP-32: Waveshare-ESP-32-S3-Zero-M
+
+OLED screen: Keyestudio-0.96in-OLED-Display
+
+Fuel Gauge: Adafruit MAX17048 Fuel Gauge
+
+MicroSD Breakout: Adafruit-4682-Micro-SD-SPI-Or-SDIO-Card-Breakout-Module
+
+DAC: TENSTAR-UDA1334A-DAC-Module-I2S
+
+Battery Charger: TP4056-Type-C-USB-5V-1A-Lithium Battery Charger Module
+
