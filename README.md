@@ -44,3 +44,5 @@ This project was designed and built to create a lightweight, feature-rich audio 
 * `mp3playercode.ino` — Complete C/C++ firmware source code.
 * `product_list.txt` — Everything I purchased and soldered onto the board. all custom footprints on the PCB design were built with these specific materials in mind.  
 
+Pictures/GIFs of finished project:
+
