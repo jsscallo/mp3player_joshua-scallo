@@ -46,3 +46,4 @@ This project was designed and built to create a lightweight, feature-rich audio 
 
 Pictures/GIFs of finished project:
 
+<img width="3176" height="2314" alt="IMG_0164" src="https://github.com/user-attachments/assets/1099c068-5498-4b49-b5b8-6d4a6cee238b" />
